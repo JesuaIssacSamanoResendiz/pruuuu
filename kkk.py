@@ -9,3 +9,6 @@ def automataCadenas(linea, cadena, ListaTokens):
     lex = ''
 
 print('te amooo <3')
+lista = ['L', 'O', 'V', 'E']
+for i in lista:
+    print(i)
