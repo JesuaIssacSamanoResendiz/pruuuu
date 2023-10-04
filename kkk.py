@@ -7,3 +7,5 @@ def automataCadenas(linea, cadena, ListaTokens):
     EI = EA
     cont = 0
     lex = ''
+
+print('te amooo <3')
